@@ -16,7 +16,7 @@ The behaviors.tsv file contains impression logs, user history, and the columns d
 - History; or the list of news article IDs clicked by the user before the current impression, and
 - Impressions; or the list of news presented in the impression with a label for each indicating whether it was clicked or not.
 
-The news.tsv contains metadaa for each article and has the columns described below.
+The news.tsv contains metadata for each article and has the columns described below.
 
 - News ID; the unique identifier for each article,
 - Category; the high level category of the news (e.g. sports, politics, entertainment),
@@ -27,7 +27,20 @@ The news.tsv contains metadaa for each article and has the columns described bel
 - Title entities; or keywords that appear in the title, and
 - Abstract entities; or keywords in the abstract.
 
-**Dependencies:**
+Python package dependencies are shown below.
 
-
+- sklearn
+- pandas
+- numpy
+- nltk
+- gensim
+- altair
+- scipy
+- random
+- re
+- imblearn
+- collections
+- matplotlib
+- seaborn
+- wordcloud
 
