@@ -6,6 +6,8 @@ For our project our team had two tasks.
 
 Our team utilized the MIND, or Microsoft News Dataset, that was released in 2020.
 
+https://learn.microsoft.com/en-us/azure/open-datasets/dataset-microsoft-news?tabs=azureml-opendatasets
+
 The MIND dataset consists of multiple data assets: behaviors.tsv and news.tsv.
 
 The behaviors.tsv file contains impression logs, user history, and the columns described below.
