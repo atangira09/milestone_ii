@@ -1,5 +1,5 @@
 # milestone_ii
-For our project our team had two tasks.
+Our team had two tasks.
 
 1. Group articles based on the words that appear in their titles into a predefined number of topics.
 2. Predict user engagement with news articles. Specifically, the number of clicks an article receives.
